@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Talib"
+  given-names: "Ammara"
+  orcid: "https://orcid.org/0009-0006-1762-8007"
+- family-names: "Aşır"
+  given-names: "Süleyman"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Farman"
+  given-names: "Muhammad"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "ConsangNeuro"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-10-30
+url: "https://github.com/AmmaraTalibPhd/ConsangNeuro"
