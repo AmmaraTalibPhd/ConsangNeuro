@@ -82,7 +82,7 @@ Names follow the article: main figures are Figures 1–6 and main tables are Tab
 
 **Primary analysis inputs (frozen):** PanelApp panels as listed in `data/genes_panelapp.csv` (Intellectual disability v11.31); ClinVar `variant_summary.txt.gz` downloaded September 2026; gnomAD v4.1 (GraphQL API, accessed September 2026). Genes are retrieved from gnomAD by Ensembl ID, or by gene symbol where gnomAD uses a different Ensembl ID (for example *TBCE*).
 
-ClinVar and PanelApp are updated monthly, so a new download gives slightly different inputs; `07_release_check.py` shows that the conclusions do not change (Table S15). To reproduce the published numbers exactly, use the deposited `data/` files. The raw downloads (`variant_summary.txt.gz` and the per-gene gnomAD responses in `gnomad_cache/` and `gnomad_lof_cache/`) are not in this repository; they are archived at **[Zenodo DOI]**.
+ClinVar and PanelApp are updated monthly, so a new download gives slightly different inputs; `07_release_check.py` shows that the conclusions do not change (Table S15). To reproduce the published numbers exactly, use the deposited `data/` files. The raw downloads (`variant_summary.txt.gz` and the per-gene gnomAD responses in `gnomad_cache/` and `gnomad_lof_cache/`) are not in this repository; `01_fetch_data.py` and `06_plof_analysis.py --fetch` regenerate them.
 
 ## Re-running from scratch (optional)
 
@@ -100,4 +100,6 @@ Code: MIT (see `LICENSE`). Input data remain under the terms of their sources: G
 
 ## Citation
 
-Please cite the article above and the archived release: **[Zenodo DOI]**.
+Please cite the article above and the archived release: Talib, A., Aşır, S., and Farman, M. ConsangNeuro. Zenodo. https://doi.org/10.5281/zenodo.23822690
+
+Code: https://github.com/AmmaraTalibPhd/ConsangNeuro
