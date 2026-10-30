@@ -1,0 +1,5 @@
+country,ancestry,consanguineous,first_cousin,other_consanguineous,F_reported,source
+Pakistan,sas,0.636,0.494,0.142,,Pakistan DHS 2017-18 (PMC9009004)
+Qatar,mid,0.54,0.348,,0.02706,"Bener & Alali, J Biosoc Sci"
+Saudi Arabia,mid,0.56,0.336,0.224,,"El Mouzan et al. 2008, Ann Saudi Med"
+Turkey,mid,0.185,0.107,0.078,,"Kaplan et al. 2016, J Biosoc Sci"

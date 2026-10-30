@@ -1,0 +1,73 @@
+ancestry,mutation_model,history,F_calibration,s,risk_now,constant_F_gen8,declining_F_gen8,cessation_gen1,cessation_gen8,full_screening_gen8,top10_screening_gen8,decline_plus_screening_gen8,rebound_pct,gradual_decline_reduction_pct
+sas,Primary: u capped at 1e-5,Above equilibrium (recent rise in consanguinity),0.0,0.5,795.9,701.6,79.6,38.3,38.0,331.6,480.4,38.7,-0.7,90.0
+sas,Primary: u capped at 1e-5,Above equilibrium (recent rise in consanguinity),0.0,0.7,795.9,666.6,77.2,37.8,37.3,322.4,461.3,37.9,-1.3,90.3
+sas,Primary: u capped at 1e-5,Above equilibrium (recent rise in consanguinity),0.0,0.9,795.9,633.2,74.9,37.3,36.6,313.4,442.9,37.2,-1.9,90.6
+sas,Primary: u capped at 1e-5,Above equilibrium (recent rise in consanguinity),0.0,1.0,795.9,617.1,73.7,37.0,36.2,309.0,434.0,36.9,-2.2,90.7
+sas,Primary: u capped at 1e-5,At equilibrium (baseline),0.03,0.5,795.9,757.1,85.5,38.6,40.6,358.7,526.2,41.5,5.1,89.3
+sas,Primary: u capped at 1e-5,At equilibrium (baseline),0.03,0.7,795.9,731.2,83.8,38.1,39.9,354.3,517.0,41.2,4.8,89.5
+sas,Primary: u capped at 1e-5,At equilibrium (baseline),0.03,0.9,795.9,703.8,81.8,37.6,39.2,348.7,505.4,40.7,4.4,89.7
+sas,Primary: u capped at 1e-5,At equilibrium (baseline),0.03,1.0,795.9,690.2,80.9,37.4,38.9,345.7,499.3,40.5,4.1,89.8
+sas,Primary: u capped at 1e-5,Below equilibrium (higher past consanguinity),0.06,0.5,795.9,781.6,87.5,38.6,41.0,370.6,550.6,42.5,6.2,89.0
+sas,Primary: u capped at 1e-5,Below equilibrium (higher past consanguinity),0.06,0.7,795.9,755.8,85.7,38.1,40.3,366.4,541.7,42.1,5.7,89.2
+sas,Primary: u capped at 1e-5,Below equilibrium (higher past consanguinity),0.06,0.9,795.9,727.6,83.7,37.6,39.6,360.5,529.2,41.6,5.1,89.5
+sas,Primary: u capped at 1e-5,Below equilibrium (higher past consanguinity),0.06,1.0,795.9,713.0,82.7,37.4,39.2,357.1,522.1,41.3,4.8,89.6
+sas,Sensitivity: uncapped,Above equilibrium (recent rise in consanguinity),0.0,0.5,795.9,702.6,80.0,38.3,38.4,332.0,480.9,38.8,0.1,89.9
+sas,Sensitivity: uncapped,Above equilibrium (recent rise in consanguinity),0.0,0.7,795.9,668.4,77.9,37.9,37.9,323.3,462.2,38.3,0.1,90.2
+sas,Sensitivity: uncapped,Above equilibrium (recent rise in consanguinity),0.0,0.9,795.9,635.9,75.8,37.4,37.5,314.8,444.2,37.7,0.2,90.5
+sas,Sensitivity: uncapped,Above equilibrium (recent rise in consanguinity),0.0,1.0,795.9,620.2,74.8,37.2,37.3,310.6,435.5,37.4,0.3,90.6
+sas,Sensitivity: uncapped,At equilibrium (baseline),0.03,0.5,795.9,795.9,94.7,39.5,48.1,377.4,544.9,46.0,21.7,88.1
+sas,Sensitivity: uncapped,At equilibrium (baseline),0.03,0.7,795.9,795.9,98.4,39.5,51.7,386.0,550.3,48.4,30.8,87.6
+sas,Sensitivity: uncapped,At equilibrium (baseline),0.03,0.9,795.9,795.9,102.1,39.5,55.4,394.5,555.6,50.8,40.2,87.2
+sas,Sensitivity: uncapped,At equilibrium (baseline),0.03,1.0,795.9,795.9,103.9,39.5,57.2,398.7,558.3,52.0,44.9,86.9
+sas,Sensitivity: uncapped,Below equilibrium (higher past consanguinity),0.06,0.5,795.9,890.1,110.5,40.7,58.8,423.1,609.4,53.7,44.6,86.1
+sas,Sensitivity: uncapped,Below equilibrium (higher past consanguinity),0.06,0.7,795.9,924.9,120.9,41.2,67.5,449.5,639.3,59.5,64.0,84.8
+sas,Sensitivity: uncapped,Below equilibrium (higher past consanguinity),0.06,0.9,795.9,958.2,131.6,41.6,76.6,475.5,668.3,65.5,84.0,83.5
+sas,Sensitivity: uncapped,Below equilibrium (higher past consanguinity),0.06,1.0,795.9,974.3,137.0,41.9,81.4,488.3,682.5,68.5,94.2,82.8
+sas,Additional sensitivity: u capped at 3e-6,Above equilibrium (recent rise in consanguinity),0.0,0.5,795.9,700.4,79.3,38.2,37.7,331.0,479.8,38.5,-1.4,90.0
+sas,Additional sensitivity: u capped at 3e-6,Above equilibrium (recent rise in consanguinity),0.0,0.7,795.9,665.0,76.8,37.7,36.9,321.6,460.5,37.7,-2.2,90.4
+sas,Additional sensitivity: u capped at 3e-6,Above equilibrium (recent rise in consanguinity),0.0,0.9,795.9,631.2,74.3,37.2,36.1,312.5,441.9,37.0,-2.9,90.7
+sas,Additional sensitivity: u capped at 3e-6,Above equilibrium (recent rise in consanguinity),0.0,1.0,795.9,615.0,73.2,37.0,35.8,308.0,432.9,36.6,-3.3,90.8
+sas,Additional sensitivity: u capped at 3e-6,At equilibrium (baseline),0.03,0.5,795.9,728.1,81.7,38.3,38.4,344.5,505.4,39.7,0.3,89.7
+sas,Additional sensitivity: u capped at 3e-6,At equilibrium (baseline),0.03,0.7,795.9,694.4,79.3,37.8,37.6,336.1,488.2,39.0,-0.5,90.0
+sas,Additional sensitivity: u capped at 3e-6,At equilibrium (baseline),0.03,0.9,795.9,661.6,76.9,37.3,36.8,327.6,470.8,38.2,-1.4,90.3
+sas,Additional sensitivity: u capped at 3e-6,At equilibrium (baseline),0.03,1.0,795.9,645.6,75.8,37.1,36.4,323.3,462.2,37.9,-1.8,90.5
+sas,Additional sensitivity: u capped at 3e-6,Below equilibrium (higher past consanguinity),0.06,0.5,795.9,734.4,82.1,38.3,38.5,347.6,511.7,39.9,0.4,89.7
+sas,Additional sensitivity: u capped at 3e-6,Below equilibrium (higher past consanguinity),0.06,0.7,795.9,700.4,79.7,37.8,37.6,339.1,494.2,39.2,-0.5,90.0
+sas,Additional sensitivity: u capped at 3e-6,Below equilibrium (higher past consanguinity),0.06,0.9,795.9,667.1,77.3,37.3,36.8,330.4,476.4,38.4,-1.3,90.3
+sas,Additional sensitivity: u capped at 3e-6,Below equilibrium (higher past consanguinity),0.06,1.0,795.9,650.8,76.1,37.1,36.4,326.0,467.5,38.1,-1.7,90.4
+mid,Primary: u capped at 1e-5,Above equilibrium (recent rise in consanguinity),0.0,0.5,944.7,826.3,119.0,75.7,73.3,389.2,526.8,57.2,-3.2,87.4
+mid,Primary: u capped at 1e-5,Above equilibrium (recent rise in consanguinity),0.0,0.7,944.7,783.0,114.4,74.6,71.2,378.0,506.4,55.9,-4.6,87.9
+mid,Primary: u capped at 1e-5,Above equilibrium (recent rise in consanguinity),0.0,0.9,944.7,741.5,109.9,73.5,69.1,366.9,486.6,54.5,-6.1,88.4
+mid,Primary: u capped at 1e-5,Above equilibrium (recent rise in consanguinity),0.0,1.0,944.7,721.5,107.7,72.9,68.0,361.4,476.9,53.8,-6.8,88.6
+mid,Primary: u capped at 1e-5,At equilibrium (baseline),0.03,0.5,944.7,877.3,124.6,76.0,75.9,414.1,568.9,59.9,-0.2,86.8
+mid,Primary: u capped at 1e-5,At equilibrium (baseline),0.03,0.7,944.7,841.0,120.4,74.9,73.7,406.6,556.8,58.8,-1.6,87.3
+mid,Primary: u capped at 1e-5,At equilibrium (baseline),0.03,0.9,944.7,804.1,116.2,73.8,71.6,398.2,542.5,57.7,-3.0,87.7
+mid,Primary: u capped at 1e-5,At equilibrium (baseline),0.03,1.0,944.7,785.9,114.1,73.2,70.5,393.7,534.9,57.1,-3.7,87.9
+mid,Primary: u capped at 1e-5,Below equilibrium (higher past consanguinity),0.06,0.5,944.7,898.1,126.4,76.1,76.3,424.2,589.8,60.8,0.3,86.6
+mid,Primary: u capped at 1e-5,Below equilibrium (higher past consanguinity),0.06,0.7,944.7,858.9,121.9,74.9,74.0,415.5,574.8,59.6,-1.2,87.1
+mid,Primary: u capped at 1e-5,Below equilibrium (higher past consanguinity),0.06,0.9,944.7,821.5,117.6,73.8,71.9,406.8,559.9,58.4,-2.7,87.6
+mid,Primary: u capped at 1e-5,Below equilibrium (higher past consanguinity),0.06,1.0,944.7,802.8,115.5,73.3,70.8,402.2,551.8,57.8,-3.4,87.8
+mid,Sensitivity: uncapped,Above equilibrium (recent rise in consanguinity),0.0,0.5,944.7,831.8,122.1,76.1,76.2,391.8,529.3,58.6,0.1,87.1
+mid,Sensitivity: uncapped,Above equilibrium (recent rise in consanguinity),0.0,0.7,944.7,791.0,118.7,75.2,75.4,381.9,510.2,57.9,0.3,87.4
+mid,Sensitivity: uncapped,Above equilibrium (recent rise in consanguinity),0.0,0.9,944.7,752.3,115.5,74.3,74.6,372.2,491.9,57.3,0.5,87.8
+mid,Sensitivity: uncapped,Above equilibrium (recent rise in consanguinity),0.0,1.0,944.7,733.7,114.0,73.8,74.3,367.5,483.0,57.0,0.6,87.9
+mid,Sensitivity: uncapped,At equilibrium (baseline),0.03,0.5,944.7,944.7,146.3,78.4,95.0,446.3,601.2,70.3,21.2,84.5
+mid,Sensitivity: uncapped,At equilibrium (baseline),0.03,0.7,944.7,944.7,152.3,78.4,101.9,457.3,609.2,74.4,30.0,83.9
+mid,Sensitivity: uncapped,At equilibrium (baseline),0.03,0.9,944.7,944.7,158.4,78.4,108.9,468.1,617.0,78.6,38.9,83.2
+mid,Sensitivity: uncapped,At equilibrium (baseline),0.03,1.0,944.7,944.7,161.4,78.4,112.4,473.5,620.9,80.7,43.4,82.9
+mid,Sensitivity: uncapped,Below equilibrium (higher past consanguinity),0.06,0.5,944.7,1059.1,172.5,80.7,115.9,501.6,673.8,83.0,43.6,81.7
+mid,Sensitivity: uncapped,Below equilibrium (higher past consanguinity),0.06,0.7,944.7,1101.2,189.7,81.7,132.3,534.2,709.6,92.7,61.9,79.9
+mid,Sensitivity: uncapped,Below equilibrium (higher past consanguinity),0.06,0.9,944.7,1141.4,207.2,82.6,149.3,566.2,744.4,102.9,80.7,78.1
+mid,Sensitivity: uncapped,Below equilibrium (higher past consanguinity),0.06,1.0,944.7,1160.7,216.0,83.1,158.0,582.0,761.5,108.1,90.2,77.1
+mid,Additional sensitivity: u capped at 3e-6,Above equilibrium (recent rise in consanguinity),0.0,0.5,944.7,823.7,118.2,75.6,72.5,388.0,525.5,56.8,-4.1,87.5
+mid,Additional sensitivity: u capped at 3e-6,Above equilibrium (recent rise in consanguinity),0.0,0.7,944.7,779.2,113.3,74.5,70.2,376.2,504.6,55.3,-5.7,88.0
+mid,Additional sensitivity: u capped at 3e-6,Above equilibrium (recent rise in consanguinity),0.0,0.9,944.7,737.2,108.6,73.4,68.0,364.7,484.4,53.9,-7.3,88.5
+mid,Additional sensitivity: u capped at 3e-6,Above equilibrium (recent rise in consanguinity),0.0,1.0,944.7,717.0,106.4,72.8,66.9,359.1,474.6,53.2,-8.1,88.7
+mid,Additional sensitivity: u capped at 3e-6,At equilibrium (baseline),0.03,0.5,944.7,847.0,120.3,75.7,73.2,399.3,547.1,57.8,-3.3,87.3
+mid,Additional sensitivity: u capped at 3e-6,At equilibrium (baseline),0.03,0.7,944.7,802.9,115.4,74.6,70.9,387.9,526.8,56.4,-5.0,87.8
+mid,Additional sensitivity: u capped at 3e-6,At equilibrium (baseline),0.03,0.9,944.7,759.8,110.7,73.4,68.6,376.0,505.8,54.9,-6.6,88.3
+mid,Additional sensitivity: u capped at 3e-6,At equilibrium (baseline),0.03,1.0,944.7,739.1,108.4,72.9,67.5,370.2,495.7,54.2,-7.3,88.5
+mid,Additional sensitivity: u capped at 3e-6,Below equilibrium (higher past consanguinity),0.06,0.5,944.7,848.5,120.4,75.7,73.3,400.1,548.6,57.9,-3.2,87.3
+mid,Additional sensitivity: u capped at 3e-6,Below equilibrium (higher past consanguinity),0.06,0.7,944.7,802.9,115.4,74.6,70.9,387.9,526.8,56.4,-5.0,87.8
+mid,Additional sensitivity: u capped at 3e-6,Below equilibrium (higher past consanguinity),0.06,0.9,944.7,759.8,110.7,73.4,68.6,376.0,505.8,54.9,-6.6,88.3
+mid,Additional sensitivity: u capped at 3e-6,Below equilibrium (higher past consanguinity),0.06,1.0,944.7,739.1,108.4,72.9,67.5,370.2,495.7,54.2,-7.3,88.5

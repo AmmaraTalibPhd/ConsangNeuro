@@ -1,0 +1,21 @@
+country,ancestry,mean_F,group,per100k,PAF,source
+Pakistan,sas,0.0331,ID_NDD,801.2,0.953,Pakistan DHS 2017-18 (PMC9009004)
+Pakistan,sas,0.0331,Epilepsy,323.8,0.95,Pakistan DHS 2017-18 (PMC9009004)
+Pakistan,sas,0.0331,HSP,61.2,0.976,Pakistan DHS 2017-18 (PMC9009004)
+Pakistan,sas,0.0331,Leukodystrophy,195.8,0.947,Pakistan DHS 2017-18 (PMC9009004)
+Pakistan,sas,0.0331,All,873.6,0.955,Pakistan DHS 2017-18 (PMC9009004)
+Qatar,mid,0.0271,ID_NDD,813.2,0.905,"Bener & Alali, J Biosoc Sci"
+Qatar,mid,0.0271,Epilepsy,334.2,0.877,"Bener & Alali, J Biosoc Sci"
+Qatar,mid,0.0271,HSP,57.5,0.957,"Bener & Alali, J Biosoc Sci"
+Qatar,mid,0.0271,Leukodystrophy,219.7,0.845,"Bener & Alali, J Biosoc Sci"
+Qatar,mid,0.0271,All,860.1,0.909,"Bener & Alali, J Biosoc Sci"
+Saudi Arabia,mid,0.0245,ID_NDD,743.8,0.896,"El Mouzan et al. 2008, Ann Saudi Med"
+Saudi Arabia,mid,0.0245,Epilepsy,306.5,0.866,"El Mouzan et al. 2008, Ann Saudi Med"
+Saudi Arabia,mid,0.0245,HSP,52.3,0.952,"El Mouzan et al. 2008, Ann Saudi Med"
+Saudi Arabia,mid,0.0245,Leukodystrophy,202.1,0.832,"El Mouzan et al. 2008, Ann Saudi Med"
+Saudi Arabia,mid,0.0245,All,786.4,0.9,"El Mouzan et al. 2008, Ann Saudi Med"
+Turkey,mid,0.0079,ID_NDD,292.7,0.737,"Kaplan et al. 2016, J Biosoc Sci"
+Turkey,mid,0.0079,Epilepsy,126.9,0.675,"Kaplan et al. 2016, J Biosoc Sci"
+Turkey,mid,0.0079,HSP,18.6,0.865,"Kaplan et al. 2016, J Biosoc Sci"
+Turkey,mid,0.0079,Leukodystrophy,88.3,0.615,"Kaplan et al. 2016, J Biosoc Sci"
+Turkey,mid,0.0079,All,307.4,0.745,"Kaplan et al. 2016, J Biosoc Sci"
