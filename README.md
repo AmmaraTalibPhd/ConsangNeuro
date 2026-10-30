@@ -22,6 +22,7 @@ This uses the deposited data in `data/` (script 05 downloads one small chain fil
 - `supplementary/`: Tables S1–S15 and Note S1
 - `figures/`: Figures 1–6 and Figures S1–S2
 
+
 ## Files in the paper and the scripts that make them
 
 Names follow the article: main figures are Figures 1–6 and main tables are Tables 1–2 (in the manuscript file); supplemental items are Tables S1–S15, Figures S1–S2 and Note S1.
