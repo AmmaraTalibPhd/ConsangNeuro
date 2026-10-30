@@ -1,0 +1,25 @@
+gene_set,disorder_group,n_genes,ancestry,risk_hc_plof,risk_clinvar_plp,risk_clinvar_classified_plof
+LoF-mechanism genes (primary),ID_NDD,716,sas,3129.66,1436.27,737.8
+LoF-mechanism genes (primary),ID_NDD,716,mid,2792.51,1731.3,832.06
+LoF-mechanism genes (primary),ID_NDD,716,nfe,2784.82,2372.94,1055.77
+LoF-mechanism genes (primary),ID_NDD,716,afr,3241.28,1828.1,929.89
+LoF-mechanism genes (primary),ID_NDD,716,eas,2825.62,1508.46,680.53
+LoF-mechanism genes (primary),ID_NDD,716,amr,2774.35,1808.25,972.25
+LoF-mechanism genes (primary),All groups,814,sas,3427.39,1565.84,805.89
+LoF-mechanism genes (primary),All groups,814,mid,3160.95,1832.62,880.45
+LoF-mechanism genes (primary),All groups,814,nfe,3058.78,2579.78,1148.81
+LoF-mechanism genes (primary),All groups,814,afr,3524.44,1980.49,1019.6
+LoF-mechanism genes (primary),All groups,814,eas,3227.46,1668.86,752.19
+LoF-mechanism genes (primary),All groups,814,amr,3000.93,1985.99,1057.25
+All autosomal genes,ID_NDD,831,sas,3276.9,1474.95,737.8
+All autosomal genes,ID_NDD,831,mid,2972.91,1769.17,832.06
+All autosomal genes,ID_NDD,831,nfe,2954.72,2395.89,1055.77
+All autosomal genes,ID_NDD,831,afr,3393.66,1838.77,929.89
+All autosomal genes,ID_NDD,831,eas,3015.75,1543.11,680.53
+All autosomal genes,ID_NDD,831,amr,2960.99,1827.21,972.25
+All autosomal genes,All groups,948,sas,3594.11,1608.94,805.89
+All autosomal genes,All groups,948,mid,3353.36,1874.79,880.45
+All autosomal genes,All groups,948,nfe,3240.98,2605.65,1148.81
+All autosomal genes,All groups,948,afr,3696.19,1993.86,1019.6
+All autosomal genes,All groups,948,eas,3442.42,1703.88,752.19
+All autosomal genes,All groups,948,amr,3206.89,2008.76,1057.25

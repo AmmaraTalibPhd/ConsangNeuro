@@ -1,0 +1,55 @@
+ancestry,scenario,generation,years,per100k
+sas,Constant consanguinity (F=0.03),0,0,795.9117322773102
+sas,Constant consanguinity (F=0.03),1,25,782.9329006980412
+sas,Constant consanguinity (F=0.03),2,50,770.4094013242346
+sas,Constant consanguinity (F=0.03),3,75,758.3219813056763
+sas,Constant consanguinity (F=0.03),4,100,746.6524258061935
+sas,Constant consanguinity (F=0.03),5,125,735.3834863507824
+sas,Constant consanguinity (F=0.03),6,150,724.4988152776632
+sas,Constant consanguinity (F=0.03),7,175,713.9829056765801
+sas,Constant consanguinity (F=0.03),8,200,703.8210362699471
+sas,Consanguinity halves per ~2 generations,0,0,795.9117322773102
+sas,Consanguinity halves per ~2 generations,1,25,563.406103298436
+sas,Consanguinity halves per ~2 generations,2,50,404.8043162837134
+sas,Consanguinity halves per ~2 generations,3,75,295.2017106311655
+sas,Consanguinity halves per ~2 generations,4,100,218.77242898292738
+sas,Consanguinity halves per ~2 generations,5,125,165.14727637199078
+sas,Consanguinity halves per ~2 generations,6,150,127.37175982768801
+sas,Consanguinity halves per ~2 generations,7,175,100.69941083501455
+sas,Consanguinity halves per ~2 generations,8,200,81.84889062405887
+sas,No consanguinity from now (F=0),0,0,795.9117322773102
+sas,No consanguinity from now (F=0),1,25,37.607660328320414
+sas,No consanguinity from now (F=0),2,50,37.825063509377976
+sas,No consanguinity from now (F=0),3,75,38.04814165999648
+sas,No consanguinity from now (F=0),4,100,38.27684282516897
+sas,No consanguinity from now (F=0),5,125,38.511115751804766
+sas,No consanguinity from now (F=0),6,150,38.75090985895335
+sas,No consanguinity from now (F=0),7,175,38.99617521307963
+sas,No consanguinity from now (F=0),8,200,39.24686250553755
+sas,"Screening, full panel, 50% uptake",0,0,795.9117322773102
+sas,"Screening, full panel, 50% uptake",1,25,392.23048204990454
+sas,"Screening, full panel, 50% uptake",2,50,385.29943258346356
+sas,"Screening, full panel, 50% uptake",3,75,378.62172099459855
+sas,"Screening, full panel, 50% uptake",4,100,372.18625626843635
+sas,"Screening, full panel, 50% uptake",5,125,365.9825640569769
+sas,"Screening, full panel, 50% uptake",6,150,360.0007427853602
+sas,"Screening, full panel, 50% uptake",7,175,354.2314236186783
+sas,"Screening, full panel, 50% uptake",8,200,348.66573388896427
+sas,"Screening, top-10% panel, 50% uptake",0,0,795.9117322773102
+sas,"Screening, top-10% panel, 50% uptake",1,25,551.1606832068527
+sas,"Screening, top-10% panel, 50% uptake",2,50,543.8953996196539
+sas,"Screening, top-10% panel, 50% uptake",3,75,536.8916084740771
+sas,"Screening, top-10% panel, 50% uptake",4,100,530.1380253879385
+sas,"Screening, top-10% panel, 50% uptake",5,125,523.6239868502523
+sas,"Screening, top-10% panel, 50% uptake",6,150,517.339406272721
+sas,"Screening, top-10% panel, 50% uptake",7,175,511.27473390014666
+sas,"Screening, top-10% panel, 50% uptake",8,200,505.42092017614726
+sas,Decline + full-panel screening,0,0,795.9117322773102
+sas,Decline + full-panel screening,1,25,282.09812836613725
+sas,Decline + full-panel screening,2,50,202.35193093530722
+sas,Decline + full-panel screening,3,75,147.38242288526715
+sas,Decline + full-panel screening,4,100,109.1184756638941
+sas,Decline + full-panel screening,5,125,82.30441026342294
+sas,Decline + full-panel screening,6,150,63.43152271991448
+sas,Decline + full-panel screening,7,175,50.11324054277067
+sas,Decline + full-panel screening,8,200,40.70376696935219

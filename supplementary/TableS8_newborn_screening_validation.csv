@@ -1,0 +1,16 @@
+disorder,genes_in_set,observed,obs_per100k,obs_lo,obs_hi,pred_per100k,pred_cases,exact_poisson_p,obs_to_exp,obs_to_exp_lo,obs_to_exp_hi
+Phenylketonuria,PAH,2.0,3.5316,0.4277,12.7573,64.3137,36.4222,0.0,0.0549,0.0067,0.1984
+Biotinidase deficiency,BTD,2.0,3.5316,0.4277,12.7573,3.9194,2.2196,1.0,0.9011,0.1091,3.2549
+Methylmalonic aciduria,"MUT,MMAA,MMAB",3.0,5.2974,1.0924,15.4811,7.6449,4.3294,0.7438,0.6929,0.1429,2.025
+Propionic aciduria,"PCCA,PCCB",4.0,7.0631,1.9245,18.0845,1.2392,0.7018,0.0116,5.6999,1.553,14.5939
+Maple syrup urine disease,"BCKDHA,BCKDHB,DBT",2.0,3.5316,0.4277,12.7573,2.0985,1.1884,0.6664,1.6829,0.2038,6.0792
+Glutaric aciduria type 1,GCDH,3.0,5.2974,1.0924,15.4811,4.4434,2.5164,0.9208,1.1922,0.2459,3.4841
+Citrullinemia,ASS1,2.0,3.5316,0.4277,12.7573,4.3526,2.465,1.0,0.8114,0.0983,2.931
+3-MCC deficiency,"MCCC1,MCCC2",1.0,1.7658,0.0447,9.8383,2.9337,1.6614,1.0,0.6019,0.0152,3.3536
+Galactosemia,GALT,1.0,1.7658,0.0447,9.8383,2.66,1.5064,1.0,0.6638,0.0168,3.6987
+MCAD deficiency,ACADM,0.0,0.0,0.0,6.5138,10.0133,5.6707,0.0069,0.0,0.0,0.6505
+Homocystinuria,CBS,0.0,0.0,0.0,6.5138,0.0,0.0,1.0,,,
+Isovaleric acidemia,IVD,0.0,0.0,0.0,6.5138,2.6318,1.4904,0.4505,0.0,0.0,2.475
+Pooled (all 12 disorders),,20.0,,,,,60.17,,0.3324,0.203,0.5133
+Calibration model log E(Y) = alpha + beta log(Yhat): intercept alpha (95% CI),,,,,,,,,0.6753,0.0753,1.2752
+Calibration model: slope beta (95% CI); beta = 1 is correct relative calibration,,,,,,,,,-0.0843,-0.5498,0.3813

@@ -1,0 +1,387 @@
+{
+ "n_genes": 948,
+ "genes_per_group": {
+  "Epilepsy": 334,
+  "HSP": 87,
+  "ID_NDD": 831,
+  "Leukodystrophy": 169
+ },
+ "clinvar_plp_variants_autosomal": 60935,
+ "n_x_linked_excluded": 72,
+ "table2_ID_first_cousin": {
+  "afr": {
+   ">=2 stars": 1227.7,
+   "AF<=0.5%": 1535.5,
+   "Baseline": 1838.8,
+   "Pathogenic only": 565.3
+  },
+  "amr": {
+   ">=2 stars": 1381.0,
+   "AF<=0.5%": 1729.2,
+   "Baseline": 1827.2,
+   "Pathogenic only": 652.2
+  },
+  "eas": {
+   ">=2 stars": 1051.9,
+   "AF<=0.5%": 1388.0,
+   "Baseline": 1543.1,
+   "Pathogenic only": 559.7
+  },
+  "mid": {
+   ">=2 stars": 1143.6,
+   "AF<=0.5%": 1640.6,
+   "Baseline": 1769.2,
+   "Pathogenic only": 548.6
+  },
+  "nfe": {
+   ">=2 stars": 1903.1,
+   "AF<=0.5%": 2021.6,
+   "Baseline": 2395.9,
+   "Pathogenic only": 807.9
+  },
+  "sas": {
+   ">=2 stars": 1013.3,
+   "AF<=0.5%": 1382.7,
+   "Baseline": 1475.0,
+   "Pathogenic only": 442.2
+  }
+ },
+ "nfe_to_sas_ratio_by_set": {
+  ">=2 stars": 1.88,
+  "AF<=0.5%": 1.46,
+  "Baseline": 1.62,
+  "Pathogenic only": 1.83
+ },
+ "sas_lowest_in_every_set": true,
+ "PAF_range_first_cousin_all_sets": [
+  0.9176,
+  0.9951
+ ],
+ "pakistan_births_2.5_50_97.5_by_set": {
+  "Baseline": [
+   60756,
+   61641,
+   62443
+  ],
+  "AF<=0.5%": [
+   57168,
+   58073,
+   58864
+  ],
+  ">=2 stars": [
+   41537,
+   42281,
+   43013
+  ],
+  "Pathogenic only": [
+   18697,
+   19108,
+   19598
+  ]
+ },
+ "validation_homozygous": {
+  "outbred": 0.4467301087448177,
+  "saudi_cohort_mix": 0.960787275154569,
+  "first_cousin": 0.9785026700407268,
+  "observed": 0.97,
+  "F_consanguineous_couples": 0.04375
+ },
+ "nbs": {
+  "n_disorders": 12,
+  "n_rejected_p05": 3,
+  "P_3plus_rejections_if_correct": 0.019568261997154557,
+  "excl_PKU_observed": 18,
+  "excl_PKU_expected": 23.74955604580289,
+  "excl_PKU_p": 0.27782195711497715
+ },
+ "countries_all_groups": [
+  {
+   "country": "Pakistan",
+   "mean_F": 0.0331,
+   "per100k": 873.6,
+   "PAF": 0.955
+  },
+  {
+   "country": "Qatar",
+   "mean_F": 0.0271,
+   "per100k": 860.1,
+   "PAF": 0.909
+  },
+  {
+   "country": "Saudi Arabia",
+   "mean_F": 0.0245,
+   "per100k": 786.4,
+   "PAF": 0.9
+  },
+  {
+   "country": "Turkey",
+   "mean_F": 0.0079,
+   "per100k": 307.4,
+   "PAF": 0.745
+  }
+ ],
+ "pakistan_F_sensitivity_per100k": {
+  "other consanguineous as unrelated": 817.9,
+  "baseline": 873.6,
+  "other consanguineous as F=1/32": 929.3,
+  "10% of first cousins double first cousins": 951.1
+ },
+ "PAF_if_frequencies_multiplied": {
+  "x1": {
+   "per100k": 873.6,
+   "PAF": 0.9548
+  },
+  "x2": {
+   "per100k": 1814.7,
+   "PAF": 0.913
+  },
+  "x3": {
+   "per100k": 2821.2,
+   "PAF": 0.8742
+  },
+  "x5": {
+   "per100k": 5021.8,
+   "PAF": 0.8043
+  }
+ },
+ "PAF_random_gene_penetrance_95pct": [
+  0.9500702292491204,
+  0.9601683343603056
+ ],
+ "decline_reduction_range_pct": [
+  77.1,
+  90.8
+ ],
+ "rebound_range_pct": [
+  -8.1,
+  94.2
+ ],
+ "capped_decline_reduction_range_pct": [
+  86.6,
+  90.7
+ ],
+ "capped_cessation_change_range_pct": [
+  -6.8,
+  6.2
+ ],
+ "top25_shared_all_four": [
+  "ACADM",
+  "DARS2",
+  "MFF",
+  "PAH",
+  "SMPD1",
+  "VPS13B"
+ ],
+ "top25_overlap_sas_mid": 9,
+ "pakistan_births_per_gene_by_rank_block": {
+  "1-10": 1122,
+  "11-50": 393,
+  "51-100": 205,
+  "101-300": 85,
+  "301-948": 10
+ },
+ "couples_screened_per_affected_pregnancy": {
+  "first_cousin_couples": {
+   "10": 348,
+   "50": 142,
+   "100": 102,
+   "300": 70,
+   "948": 62
+  },
+  "all_couples_pakistan": {
+   "10": 616,
+   "50": 257,
+   "100": 186,
+   "300": 128,
+   "948": 114
+  }
+ },
+ "gene_by_gene": {
+  "n_both": 713,
+  "share_nfe_higher": 0.6549789621318373,
+  "median_ratio": 1.5137084954130475,
+  "only_nfe": 154,
+  "only_sas": 10
+ },
+ "unobserved_share_mid": {
+  "Epilepsy": 0.111,
+  "HSP": 0.135,
+  "ID_NDD": 0.113,
+  "Leukodystrophy": 0.086
+ },
+ "share_genes_observed_range": {
+  "afr": {
+   "min": 0.763,
+   "max": 0.846
+  },
+  "amr": {
+   "min": 0.753,
+   "max": 0.817
+  },
+  "eas": {
+   "min": 0.659,
+   "max": 0.734
+  },
+  "mid": {
+   "min": 0.444,
+   "max": 0.485
+  },
+  "nfe": {
+   "min": 0.912,
+   "max": 0.959
+  },
+  "sas": {
+   "min": 0.736,
+   "max": 0.852
+  }
+ },
+ "x_linked_affected_per100k_births": {
+  "afr": 228.0,
+  "amr": 105.8,
+  "eas": 117.3,
+  "mid": 367.3,
+  "nfe": 258.5,
+  "sas": 91.2
+ },
+ "downsampling": {
+  "African (observed)": {
+   "burden_median": 1838.768,
+   "burden_lo": 1838.768,
+   "burden_hi": 1838.768,
+   "share_median": 0.763,
+   "share_lo": 0.763,
+   "share_hi": 0.763
+  },
+  "European (observed)": {
+   "burden_median": 2395.887,
+   "burden_lo": 2395.887,
+   "burden_hi": 2395.887,
+   "share_median": 0.912,
+   "share_lo": 0.912,
+   "share_hi": 0.912
+  },
+  "European downsampled to Middle Eastern size": {
+   "burden_median": 2399.522,
+   "burden_lo": 2291.003,
+   "burden_hi": 2500.093,
+   "share_median": 0.502,
+   "share_lo": 0.481,
+   "share_hi": 0.523
+  },
+  "European downsampled to South Asian size": {
+   "burden_median": 2397.315,
+   "burden_lo": 2370.615,
+   "burden_hi": 2423.884,
+   "share_median": 0.811,
+   "share_lo": 0.8,
+   "share_hi": 0.824
+  },
+  "Middle Eastern (observed)": {
+   "burden_median": 1769.165,
+   "burden_lo": 1769.165,
+   "burden_hi": 1769.165,
+   "share_median": 0.444,
+   "share_lo": 0.444,
+   "share_hi": 0.444
+  },
+  "South Asian (observed)": {
+   "burden_median": 1474.951,
+   "burden_lo": 1474.951,
+   "burden_hi": 1474.951,
+   "share_median": 0.764,
+   "share_lo": 0.764,
+   "share_hi": 0.764
+  }
+ },
+ "priors_ID_first_cousin": {
+  "afr": {
+   "Beta(0.5,0.5) (baseline)": 1906.0,
+   "Beta(1,1)": 1925.0,
+   "Conservative Beta(0.1,1)": 1895.0,
+   "Zero contribution": 1839.0
+  },
+  "mid": {
+   "Beta(0.5,0.5) (baseline)": 2229.0,
+   "Beta(1,1)": 2477.0,
+   "Conservative Beta(0.1,1)": 2022.0,
+   "Zero contribution": 1769.0
+  },
+  "nfe": {
+   "Beta(0.5,0.5) (baseline)": 2398.0,
+   "Beta(1,1)": 2399.0,
+   "Conservative Beta(0.1,1)": 2398.0,
+   "Zero contribution": 2396.0
+  },
+  "sas": {
+   "Beta(0.5,0.5) (baseline)": 1505.0,
+   "Beta(1,1)": 1512.0,
+   "Conservative Beta(0.1,1)": 1500.0,
+   "Zero contribution": 1475.0
+  }
+ },
+ "priors_PAF_range_all_groups": [
+  0.9525716339766477,
+  0.9757040585799164
+ ],
+ "nbs_calibration": {
+  "pooled_obs": 20,
+  "pooled_exp": 60.17171673009278,
+  "pooled_OE": 0.33238207395199176,
+  "pooled_OE_CI": [
+   0.20302760581358448,
+   0.5133371554151929
+  ],
+  "slope": -0.08425511018860958,
+  "slope_CI": [
+   -0.5498137896956616,
+   0.3813035693184425
+  ],
+  "intercept": 0.6752586808299648,
+  "intercept_CI": [
+   0.07532210312181631,
+   1.2751952585381132
+  ],
+  "within_2fold": 7,
+  "n_with_expected": 11
+ },
+ "u_calibrated": {
+  "mid": {
+   "median": 9.374873367655308e-06,
+   "p90": 4.282480175174207e-05,
+   "share_genes_u_gt_1e-5": 0.43552311435523117,
+   "share_risk_u_gt_1e-5": 0.8292949691306365
+  },
+  "sas": {
+   "median": 3.6114020338351795e-06,
+   "p90": 2.5034902301431184e-05,
+   "share_genes_u_gt_1e-5": 0.2544951590594744,
+   "share_risk_u_gt_1e-5": 0.7733233916993113
+  }
+ },
+ "capped_mutation_dynamics": {
+  "sas_cap_None": {
+   "cessation_change_pct": 40.16480234370543,
+   "gradual_decline_reduction_pct": 87.17254577383444
+  },
+  "sas_cap_1e-05": {
+   "cessation_change_pct": 4.358692252872576,
+   "gradual_decline_reduction_pct": 89.7163357059874
+  },
+  "sas_cap_3e-06": {
+   "cessation_change_pct": -1.359844521770337,
+   "gradual_decline_reduction_pct": 90.33476029708835
+  },
+  "mid_cap_None": {
+   "cessation_change_pct": 38.88026297548346,
+   "gradual_decline_reduction_pct": 83.23468715953365
+  },
+  "mid_cap_1e-05": {
+   "cessation_change_pct": -3.0359217094843682,
+   "gradual_decline_reduction_pct": 87.7022837393964
+  },
+  "mid_cap_3e-06": {
+   "cessation_change_pct": -6.570654909153917,
+   "gradual_decline_reduction_pct": 88.28547151131578
+  }
+ }
+}

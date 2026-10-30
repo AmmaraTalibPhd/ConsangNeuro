@@ -1,0 +1,361 @@
+variant_set,ancestry,group,F,per100k,PAF
+Baseline,sas,ID_NDD,0.0625,1474.4,0.9746
+Baseline,sas,ID_NDD,0.0331,801.1,0.9532
+Baseline,sas,ID_NDD,0.03,729.8,0.9486
+Baseline,sas,Epilepsy,0.0625,596.4,0.973
+Baseline,sas,Epilepsy,0.0331,323.8,0.9503
+Baseline,sas,Epilepsy,0.03,295.1,0.9455
+Baseline,sas,HSP,0.0625,114.3,0.9871
+Baseline,sas,HSP,0.0331,61.3,0.9759
+Baseline,sas,HSP,0.03,55.7,0.9735
+Baseline,sas,Leukodystrophy,0.0625,360.2,0.9711
+Baseline,sas,Leukodystrophy,0.0331,195.8,0.9468
+Baseline,sas,Leukodystrophy,0.03,178.5,0.9416
+Baseline,sas,All,0.0625,1608.4,0.9754
+Baseline,sas,All,0.0331,873.5,0.9548
+Baseline,sas,All,0.03,795.6,0.9504
+Baseline,mid,ID_NDD,0.0625,1719.1,0.9583
+Baseline,mid,ID_NDD,0.0331,947.5,0.9244
+Baseline,mid,ID_NDD,0.03,865.8,0.9172
+Baseline,mid,Epilepsy,0.0625,716.7,0.9425
+Baseline,mid,Epilepsy,0.0331,399.5,0.8969
+Baseline,mid,Epilepsy,0.03,366.0,0.8875
+Baseline,mid,HSP,0.0625,129.4,0.9807
+Baseline,mid,HSP,0.0331,69.7,0.9642
+Baseline,mid,HSP,0.03,63.4,0.9606
+Baseline,mid,Leukodystrophy,0.0625,462.4,0.9265
+Baseline,mid,Leukodystrophy,0.0331,261.1,0.8698
+Baseline,mid,Leukodystrophy,0.03,239.9,0.8582
+Baseline,mid,All,0.0625,1824.8,0.96
+Baseline,mid,All,0.0331,1004.6,0.9273
+Baseline,mid,All,0.03,917.7,0.9204
+Baseline,nfe,ID_NDD,0.0625,2394.7,0.9502
+Baseline,nfe,ID_NDD,0.0331,1330.8,0.9105
+Baseline,nfe,ID_NDD,0.03,1217.9,0.9022
+Baseline,nfe,Epilepsy,0.0625,921.5,0.954
+Baseline,nfe,Epilepsy,0.0331,508.9,0.9168
+Baseline,nfe,Epilepsy,0.03,465.3,0.909
+Baseline,nfe,HSP,0.0625,147.2,0.9836
+Baseline,nfe,HSP,0.0331,79.1,0.9695
+Baseline,nfe,HSP,0.03,71.9,0.9664
+Baseline,nfe,Leukodystrophy,0.0625,636.3,0.9438
+Baseline,nfe,Leukodystrophy,0.0331,354.2,0.8991
+Baseline,nfe,Leukodystrophy,0.03,324.4,0.8898
+Baseline,nfe,All,0.0625,2604.5,0.9526
+Baseline,nfe,All,0.0331,1445.2,0.9145
+Baseline,nfe,All,0.03,1322.1,0.9065
+Baseline,afr,ID_NDD,0.0625,1838.3,0.964
+Baseline,afr,ID_NDD,0.0331,1008.6,0.9344
+Baseline,afr,ID_NDD,0.03,920.7,0.9281
+Baseline,afr,Epilepsy,0.0625,642.6,0.972
+Baseline,afr,Epilepsy,0.0331,349.3,0.9485
+Baseline,afr,Epilepsy,0.03,318.3,0.9434
+Baseline,afr,HSP,0.0625,98.9,0.9902
+Baseline,afr,HSP,0.0331,52.8,0.9817
+Baseline,afr,HSP,0.03,48.0,0.9798
+Baseline,afr,Leukodystrophy,0.0625,444.1,0.9683
+Baseline,afr,Leukodystrophy,0.0331,242.1,0.9419
+Baseline,afr,Leukodystrophy,0.03,220.7,0.9363
+Baseline,afr,All,0.0625,1993.4,0.9657
+Baseline,afr,All,0.0331,1092.5,0.9374
+Baseline,afr,All,0.03,997.0,0.9314
+Baseline,eas,ID_NDD,0.0625,1541.9,0.9645
+Baseline,eas,ID_NDD,0.0331,845.1,0.9352
+Baseline,eas,ID_NDD,0.03,771.4,0.929
+Baseline,eas,Epilepsy,0.0625,685.9,0.9588
+Baseline,eas,Epilepsy,0.0331,377.1,0.925
+Baseline,eas,Epilepsy,0.03,344.5,0.9179
+Baseline,eas,HSP,0.0625,174.7,0.9398
+Baseline,eas,HSP,0.0331,97.5,0.892
+Baseline,eas,HSP,0.03,89.4,0.8822
+Baseline,eas,Leukodystrophy,0.0625,464.4,0.9534
+Baseline,eas,Leukodystrophy,0.0331,256.3,0.9157
+Baseline,eas,Leukodystrophy,0.03,234.4,0.9077
+Baseline,eas,All,0.0625,1702.7,0.9652
+Baseline,eas,All,0.0331,933.0,0.9365
+Baseline,eas,All,0.03,851.5,0.9304
+Baseline,amr,ID_NDD,0.0625,1826.1,0.9732
+Baseline,amr,ID_NDD,0.0331,994.1,0.9508
+Baseline,amr,ID_NDD,0.03,905.9,0.946
+Baseline,amr,Epilepsy,0.0625,736.6,0.9727
+Baseline,amr,Epilepsy,0.0331,400.2,0.9498
+Baseline,amr,Epilepsy,0.03,364.7,0.9449
+Baseline,amr,HSP,0.0625,135.1,0.9879
+Baseline,amr,HSP,0.0331,72.3,0.9774
+Baseline,amr,HSP,0.03,65.7,0.9751
+Baseline,amr,Leukodystrophy,0.0625,437.9,0.9705
+Baseline,amr,Leukodystrophy,0.0331,238.2,0.9457
+Baseline,amr,Leukodystrophy,0.03,217.2,0.9404
+Baseline,amr,All,0.0625,2007.7,0.9735
+Baseline,amr,All,0.0331,1093.1,0.9513
+Baseline,amr,All,0.03,996.2,0.9465
+AF<=0.5%,sas,ID_NDD,0.0625,1382.2,0.9774
+AF<=0.5%,sas,ID_NDD,0.0331,749.0,0.9582
+AF<=0.5%,sas,ID_NDD,0.03,682.0,0.9541
+AF<=0.5%,sas,Epilepsy,0.0625,560.2,0.9754
+AF<=0.5%,sas,Epilepsy,0.0331,303.5,0.9546
+AF<=0.5%,sas,Epilepsy,0.03,276.4,0.9501
+AF<=0.5%,sas,HSP,0.0625,113.1,0.9872
+AF<=0.5%,sas,HSP,0.0331,60.6,0.9762
+AF<=0.5%,sas,HSP,0.03,55.1,0.9738
+AF<=0.5%,sas,Leukodystrophy,0.0625,339.7,0.971
+AF<=0.5%,sas,Leukodystrophy,0.0331,184.6,0.9467
+AF<=0.5%,sas,Leukodystrophy,0.03,168.3,0.9415
+AF<=0.5%,sas,All,0.0625,1516.3,0.978
+AF<=0.5%,sas,All,0.0331,821.4,0.9595
+AF<=0.5%,sas,All,0.03,747.9,0.9555
+AF<=0.5%,mid,ID_NDD,0.0625,1637.6,0.9592
+AF<=0.5%,mid,ID_NDD,0.0331,901.8,0.9258
+AF<=0.5%,mid,ID_NDD,0.03,823.9,0.9188
+AF<=0.5%,mid,Epilepsy,0.0625,680.3,0.9429
+AF<=0.5%,mid,Epilepsy,0.0331,379.1,0.8975
+AF<=0.5%,mid,Epilepsy,0.03,347.3,0.8881
+AF<=0.5%,mid,HSP,0.0625,129.4,0.9807
+AF<=0.5%,mid,HSP,0.0331,69.7,0.9642
+AF<=0.5%,mid,HSP,0.03,63.4,0.9606
+AF<=0.5%,mid,Leukodystrophy,0.0625,431.6,0.9248
+AF<=0.5%,mid,Leukodystrophy,0.0331,244.0,0.867
+AF<=0.5%,mid,Leukodystrophy,0.03,224.3,0.8552
+AF<=0.5%,mid,All,0.0625,1743.3,0.9609
+AF<=0.5%,mid,All,0.0331,958.9,0.9288
+AF<=0.5%,mid,All,0.03,875.8,0.9221
+AF<=0.5%,nfe,ID_NDD,0.0625,2020.5,0.968
+AF<=0.5%,nfe,ID_NDD,0.0331,1105.2,0.9415
+AF<=0.5%,nfe,ID_NDD,0.03,1008.2,0.9359
+AF<=0.5%,nfe,Epilepsy,0.0625,861.2,0.9597
+AF<=0.5%,nfe,Epilepsy,0.0331,473.3,0.9266
+AF<=0.5%,nfe,Epilepsy,0.03,432.3,0.9197
+AF<=0.5%,nfe,HSP,0.0625,147.1,0.9836
+AF<=0.5%,nfe,HSP,0.0331,79.1,0.9695
+AF<=0.5%,nfe,HSP,0.03,71.9,0.9664
+AF<=0.5%,nfe,Leukodystrophy,0.0625,554.3,0.9502
+AF<=0.5%,nfe,Leukodystrophy,0.0331,306.9,0.91
+AF<=0.5%,nfe,Leukodystrophy,0.03,280.8,0.9016
+AF<=0.5%,nfe,All,0.0625,2231.0,0.969
+AF<=0.5%,nfe,All,0.0331,1219.9,0.9434
+AF<=0.5%,nfe,All,0.03,1112.7,0.9379
+AF<=0.5%,afr,ID_NDD,0.0625,1534.9,0.9785
+AF<=0.5%,afr,ID_NDD,0.0331,831.3,0.9603
+AF<=0.5%,afr,ID_NDD,0.03,756.8,0.9563
+AF<=0.5%,afr,Epilepsy,0.0625,557.0,0.9837
+AF<=0.5%,afr,Epilepsy,0.0331,299.6,0.9698
+AF<=0.5%,afr,Epilepsy,0.03,272.4,0.9668
+AF<=0.5%,afr,HSP,0.0625,98.9,0.9902
+AF<=0.5%,afr,HSP,0.0331,52.8,0.9817
+AF<=0.5%,afr,HSP,0.03,48.0,0.9798
+AF<=0.5%,afr,Leukodystrophy,0.0625,367.3,0.9802
+AF<=0.5%,afr,Leukodystrophy,0.0331,198.1,0.9633
+AF<=0.5%,afr,Leukodystrophy,0.03,180.2,0.9597
+AF<=0.5%,afr,All,0.0625,1690.5,0.9792
+AF<=0.5%,afr,All,0.0331,915.3,0.9615
+AF<=0.5%,afr,All,0.03,833.2,0.9577
+AF<=0.5%,eas,ID_NDD,0.0625,1386.8,0.9744
+AF<=0.5%,eas,ID_NDD,0.0331,753.4,0.9528
+AF<=0.5%,eas,ID_NDD,0.03,686.4,0.9482
+AF<=0.5%,eas,Epilepsy,0.0625,626.1,0.9687
+AF<=0.5%,eas,Epilepsy,0.0331,341.3,0.9426
+AF<=0.5%,eas,Epilepsy,0.03,311.2,0.9371
+AF<=0.5%,eas,HSP,0.0625,116.6,0.9841
+AF<=0.5%,eas,HSP,0.0331,62.7,0.9704
+AF<=0.5%,eas,HSP,0.03,57.0,0.9674
+AF<=0.5%,eas,Leukodystrophy,0.0625,388.1,0.968
+AF<=0.5%,eas,Leukodystrophy,0.0331,211.6,0.9413
+AF<=0.5%,eas,Leukodystrophy,0.03,192.9,0.9356
+AF<=0.5%,eas,All,0.0625,1547.8,0.9741
+AF<=0.5%,eas,All,0.0331,841.4,0.9524
+AF<=0.5%,eas,All,0.03,766.6,0.9478
+AF<=0.5%,amr,ID_NDD,0.0625,1728.1,0.9763
+AF<=0.5%,amr,ID_NDD,0.0331,938.0,0.9563
+AF<=0.5%,amr,ID_NDD,0.03,854.4,0.952
+AF<=0.5%,amr,Epilepsy,0.0625,698.7,0.9752
+AF<=0.5%,amr,Epilepsy,0.0331,378.8,0.9543
+AF<=0.5%,amr,Epilepsy,0.03,345.0,0.9498
+AF<=0.5%,amr,HSP,0.0625,135.1,0.9879
+AF<=0.5%,amr,HSP,0.0331,72.3,0.9774
+AF<=0.5%,amr,HSP,0.03,65.7,0.9751
+AF<=0.5%,amr,Leukodystrophy,0.0625,429.1,0.9702
+AF<=0.5%,amr,Leukodystrophy,0.0331,233.5,0.9453
+AF<=0.5%,amr,Leukodystrophy,0.03,212.8,0.94
+AF<=0.5%,amr,All,0.0625,1909.8,0.9762
+AF<=0.5%,amr,All,0.0331,1037.1,0.9563
+AF<=0.5%,amr,All,0.03,944.7,0.952
+>=2 stars,sas,ID_NDD,0.0625,1013.1,0.9779
+>=2 stars,sas,ID_NDD,0.0331,548.2,0.9592
+>=2 stars,sas,ID_NDD,0.03,499.1,0.9552
+>=2 stars,sas,Epilepsy,0.0625,441.1,0.9736
+>=2 stars,sas,Epilepsy,0.0331,239.3,0.9513
+>=2 stars,sas,Epilepsy,0.03,218.0,0.9465
+>=2 stars,sas,HSP,0.0625,78.8,0.9876
+>=2 stars,sas,HSP,0.0331,42.2,0.9768
+>=2 stars,sas,HSP,0.03,38.3,0.9745
+>=2 stars,sas,Leukodystrophy,0.0625,268.9,0.9695
+>=2 stars,sas,Leukodystrophy,0.0331,146.3,0.9439
+>=2 stars,sas,Leukodystrophy,0.03,133.4,0.9385
+>=2 stars,sas,All,0.0625,1096.5,0.9787
+>=2 stars,sas,All,0.0331,593.1,0.9606
+>=2 stars,sas,All,0.03,539.9,0.9567
+>=2 stars,mid,ID_NDD,0.0625,1140.5,0.9579
+>=2 stars,mid,ID_NDD,0.0331,628.1,0.9235
+>=2 stars,mid,ID_NDD,0.03,573.9,0.9163
+>=2 stars,mid,Epilepsy,0.0625,463.3,0.9331
+>=2 stars,mid,Epilepsy,0.0331,260.2,0.8808
+>=2 stars,mid,Epilepsy,0.03,238.8,0.8701
+>=2 stars,mid,HSP,0.0625,92.5,0.9871
+>=2 stars,mid,HSP,0.0331,49.6,0.9759
+>=2 stars,mid,HSP,0.03,45.0,0.9735
+>=2 stars,mid,Leukodystrophy,0.0625,359.1,0.9176
+>=2 stars,mid,Leukodystrophy,0.0331,204.2,0.8551
+>=2 stars,mid,Leukodystrophy,0.03,187.9,0.8425
+>=2 stars,mid,All,0.0625,1206.5,0.9597
+>=2 stars,mid,All,0.0331,663.5,0.9267
+>=2 stars,mid,All,0.03,606.1,0.9197
+>=2 stars,nfe,ID_NDD,0.0625,1902.4,0.9527
+>=2 stars,nfe,ID_NDD,0.0331,1054.0,0.9146
+>=2 stars,nfe,ID_NDD,0.03,964.1,0.9066
+>=2 stars,nfe,Epilepsy,0.0625,770.2,0.9516
+>=2 stars,nfe,Epilepsy,0.0331,426.1,0.9126
+>=2 stars,nfe,Epilepsy,0.03,389.7,0.9044
+>=2 stars,nfe,HSP,0.0625,123.1,0.9834
+>=2 stars,nfe,HSP,0.0331,66.2,0.9691
+>=2 stars,nfe,HSP,0.03,60.2,0.966
+>=2 stars,nfe,Leukodystrophy,0.0625,487.1,0.9472
+>=2 stars,nfe,Leukodystrophy,0.0331,270.3,0.9049
+>=2 stars,nfe,Leukodystrophy,0.03,247.5,0.8961
+>=2 stars,nfe,All,0.0625,2060.0,0.9552
+>=2 stars,nfe,All,0.0331,1139.3,0.9189
+>=2 stars,nfe,All,0.03,1041.7,0.9113
+>=2 stars,afr,ID_NDD,0.0625,1227.7,0.9701
+>=2 stars,afr,ID_NDD,0.0331,669.2,0.9452
+>=2 stars,afr,ID_NDD,0.03,610.2,0.9399
+>=2 stars,afr,Epilepsy,0.0625,433.5,0.9783
+>=2 stars,afr,Epilepsy,0.0331,234.2,0.9599
+>=2 stars,afr,Epilepsy,0.03,213.2,0.956
+>=2 stars,afr,HSP,0.0625,71.2,0.9906
+>=2 stars,afr,HSP,0.0331,38.0,0.9825
+>=2 stars,afr,HSP,0.03,34.5,0.9807
+>=2 stars,afr,Leukodystrophy,0.0625,254.6,0.9838
+>=2 stars,afr,Leukodystrophy,0.0331,136.9,0.9699
+>=2 stars,afr,Leukodystrophy,0.03,124.4,0.9669
+>=2 stars,afr,All,0.0625,1323.5,0.9715
+>=2 stars,afr,All,0.0331,720.7,0.9477
+>=2 stars,afr,All,0.03,656.9,0.9426
+>=2 stars,eas,ID_NDD,0.0625,1050.8,0.968
+>=2 stars,eas,ID_NDD,0.0331,573.6,0.9414
+>=2 stars,eas,ID_NDD,0.03,523.1,0.9358
+>=2 stars,eas,Epilepsy,0.0625,511.4,0.9541
+>=2 stars,eas,Epilepsy,0.0331,282.2,0.9168
+>=2 stars,eas,Epilepsy,0.03,258.0,0.909
+>=2 stars,eas,HSP,0.0625,146.4,0.9367
+>=2 stars,eas,HSP,0.0331,81.9,0.8869
+>=2 stars,eas,HSP,0.03,75.1,0.8766
+>=2 stars,eas,Leukodystrophy,0.0625,345.1,0.9491
+>=2 stars,eas,Leukodystrophy,0.0331,191.1,0.9081
+>=2 stars,eas,Leukodystrophy,0.03,174.9,0.8995
+>=2 stars,eas,All,0.0625,1172.8,0.968
+>=2 stars,eas,All,0.0331,640.3,0.9415
+>=2 stars,eas,All,0.03,584.0,0.9358
+>=2 stars,amr,ID_NDD,0.0625,1380.6,0.9739
+>=2 stars,amr,ID_NDD,0.0331,750.4,0.952
+>=2 stars,amr,ID_NDD,0.03,683.7,0.9473
+>=2 stars,amr,Epilepsy,0.0625,567.0,0.9704
+>=2 stars,amr,Epilepsy,0.0331,308.5,0.9456
+>=2 stars,amr,Epilepsy,0.03,281.2,0.9403
+>=2 stars,amr,HSP,0.0625,98.8,0.9886
+>=2 stars,amr,HSP,0.0331,52.9,0.9786
+>=2 stars,amr,HSP,0.03,48.0,0.9765
+>=2 stars,amr,Leukodystrophy,0.0625,314.7,0.9715
+>=2 stars,amr,Leukodystrophy,0.0331,171.0,0.9475
+>=2 stars,amr,Leukodystrophy,0.03,155.9,0.9424
+>=2 stars,amr,All,0.0625,1491.1,0.9748
+>=2 stars,amr,All,0.0331,810.0,0.9536
+>=2 stars,amr,All,0.03,737.9,0.9491
+Pathogenic only,sas,ID_NDD,0.0625,442.0,0.9897
+Pathogenic only,sas,ID_NDD,0.0331,236.5,0.9808
+Pathogenic only,sas,ID_NDD,0.03,214.8,0.9788
+Pathogenic only,sas,Epilepsy,0.0625,173.2,0.9907
+Pathogenic only,sas,Epilepsy,0.0331,92.5,0.9826
+Pathogenic only,sas,Epilepsy,0.03,84.0,0.9808
+Pathogenic only,sas,HSP,0.0625,44.4,0.992
+Pathogenic only,sas,HSP,0.0331,23.7,0.985
+Pathogenic only,sas,HSP,0.03,21.5,0.9835
+Pathogenic only,sas,Leukodystrophy,0.0625,97.7,0.9887
+Pathogenic only,sas,Leukodystrophy,0.0331,52.3,0.9789
+Pathogenic only,sas,Leukodystrophy,0.03,47.5,0.9767
+Pathogenic only,sas,All,0.0625,483.3,0.99
+Pathogenic only,sas,All,0.0331,258.5,0.9814
+Pathogenic only,sas,All,0.03,234.8,0.9795
+Pathogenic only,mid,ID_NDD,0.0625,501.7,0.9651
+Pathogenic only,mid,ID_NDD,0.0331,274.2,0.9361
+Pathogenic only,mid,ID_NDD,0.03,250.2,0.93
+Pathogenic only,mid,Epilepsy,0.0625,258.7,0.9426
+Pathogenic only,mid,Epilepsy,0.0331,144.0,0.897
+Pathogenic only,mid,Epilepsy,0.03,131.9,0.8875
+Pathogenic only,mid,HSP,0.0625,23.4,0.9924
+Pathogenic only,mid,HSP,0.0331,12.5,0.9857
+Pathogenic only,mid,HSP,0.03,11.3,0.9842
+Pathogenic only,mid,Leukodystrophy,0.0625,159.4,0.9235
+Pathogenic only,mid,Leukodystrophy,0.0331,90.2,0.8648
+Pathogenic only,mid,Leukodystrophy,0.03,82.9,0.8529
+Pathogenic only,mid,All,0.0625,524.0,0.9663
+Pathogenic only,mid,All,0.0331,286.2,0.9383
+Pathogenic only,mid,All,0.03,261.0,0.9323
+Pathogenic only,nfe,ID_NDD,0.0625,807.4,0.9648
+Pathogenic only,nfe,ID_NDD,0.0331,441.7,0.9356
+Pathogenic only,nfe,ID_NDD,0.03,403.1,0.9295
+Pathogenic only,nfe,Epilepsy,0.0625,343.8,0.9493
+Pathogenic only,nfe,Epilepsy,0.0331,190.4,0.9084
+Pathogenic only,nfe,Epilepsy,0.03,174.2,0.8999
+Pathogenic only,nfe,HSP,0.0625,38.9,0.9943
+Pathogenic only,nfe,HSP,0.0331,20.7,0.9892
+Pathogenic only,nfe,HSP,0.03,18.8,0.9881
+Pathogenic only,nfe,Leukodystrophy,0.0625,223.4,0.9398
+Pathogenic only,nfe,Leukodystrophy,0.0331,124.7,0.8921
+Pathogenic only,nfe,Leukodystrophy,0.03,114.3,0.8823
+Pathogenic only,nfe,All,0.0625,862.5,0.9667
+Pathogenic only,nfe,All,0.0331,471.2,0.939
+Pathogenic only,nfe,All,0.03,429.8,0.9332
+Pathogenic only,afr,ID_NDD,0.0625,565.1,0.9818
+Pathogenic only,afr,ID_NDD,0.0331,304.5,0.9662
+Pathogenic only,afr,ID_NDD,0.03,277.0,0.9629
+Pathogenic only,afr,Epilepsy,0.0625,182.7,0.992
+Pathogenic only,afr,Epilepsy,0.0331,97.5,0.985
+Pathogenic only,afr,Epilepsy,0.03,88.5,0.9835
+Pathogenic only,afr,HSP,0.0625,35.7,0.9943
+Pathogenic only,afr,HSP,0.0331,19.0,0.9893
+Pathogenic only,afr,HSP,0.03,17.2,0.9883
+Pathogenic only,afr,Leukodystrophy,0.0625,129.2,0.9827
+Pathogenic only,afr,Leukodystrophy,0.0331,69.5,0.9678
+Pathogenic only,afr,Leukodystrophy,0.03,63.2,0.9646
+Pathogenic only,afr,All,0.0625,612.5,0.9828
+Pathogenic only,afr,All,0.0331,329.8,0.9681
+Pathogenic only,afr,All,0.03,299.9,0.965
+Pathogenic only,eas,ID_NDD,0.0625,559.6,0.9795
+Pathogenic only,eas,ID_NDD,0.0331,302.1,0.9619
+Pathogenic only,eas,ID_NDD,0.03,274.9,0.9582
+Pathogenic only,eas,Epilepsy,0.0625,229.1,0.979
+Pathogenic only,eas,Epilepsy,0.0331,123.7,0.961
+Pathogenic only,eas,Epilepsy,0.03,112.5,0.9572
+Pathogenic only,eas,HSP,0.0625,45.0,0.9919
+Pathogenic only,eas,HSP,0.0331,24.0,0.9848
+Pathogenic only,eas,HSP,0.03,21.8,0.9833
+Pathogenic only,eas,Leukodystrophy,0.0625,168.9,0.9741
+Pathogenic only,eas,Leukodystrophy,0.0331,91.6,0.9521
+Pathogenic only,eas,Leukodystrophy,0.03,83.4,0.9474
+Pathogenic only,eas,All,0.0625,618.2,0.9805
+Pathogenic only,eas,All,0.0331,333.5,0.9639
+Pathogenic only,eas,All,0.03,303.5,0.9603
+Pathogenic only,amr,ID_NDD,0.0625,651.2,0.9842
+Pathogenic only,amr,ID_NDD,0.0331,350.2,0.9706
+Pathogenic only,amr,ID_NDD,0.03,318.4,0.9677
+Pathogenic only,amr,Epilepsy,0.0625,289.9,0.9778
+Pathogenic only,amr,Epilepsy,0.0331,156.6,0.959
+Pathogenic only,amr,Epilepsy,0.03,142.6,0.955
+Pathogenic only,amr,HSP,0.0625,46.8,0.9951
+Pathogenic only,amr,HSP,0.0331,24.9,0.9908
+Pathogenic only,amr,HSP,0.03,22.6,0.9899
+Pathogenic only,amr,Leukodystrophy,0.0625,161.4,0.978
+Pathogenic only,amr,Leukodystrophy,0.0331,87.2,0.9592
+Pathogenic only,amr,Leukodystrophy,0.03,79.3,0.9552
+Pathogenic only,amr,All,0.0625,709.2,0.985
+Pathogenic only,amr,All,0.0331,381.2,0.972
+Pathogenic only,amr,All,0.03,346.6,0.9692

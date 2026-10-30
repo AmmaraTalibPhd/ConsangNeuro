@@ -1,0 +1,33 @@
+prior,ancestry,group,per100k,PAF
+Zero contribution,sas,ID_NDD,1474.9513,0.9746
+Zero contribution,sas,All,1608.941,0.9755
+Zero contribution,mid,ID_NDD,1769.1653,0.9564
+Zero contribution,mid,All,1874.7897,0.9582
+Zero contribution,nfe,ID_NDD,2395.8869,0.9503
+Zero contribution,nfe,All,2605.6517,0.9526
+Zero contribution,afr,ID_NDD,1838.768,0.964
+Zero contribution,afr,All,1993.8626,0.9657
+"Beta(0.5,0.5) (baseline)",sas,ID_NDD,1505.3813,0.9747
+"Beta(0.5,0.5) (baseline)",sas,All,1642.2013,0.9756
+"Beta(0.5,0.5) (baseline)",mid,ID_NDD,2229.4943,0.9603
+"Beta(0.5,0.5) (baseline)",mid,All,2393.2191,0.9622
+"Beta(0.5,0.5) (baseline)",nfe,ID_NDD,2398.2303,0.9503
+"Beta(0.5,0.5) (baseline)",nfe,All,2608.3344,0.9526
+"Beta(0.5,0.5) (baseline)",afr,ID_NDD,1905.7631,0.9645
+"Beta(0.5,0.5) (baseline)",afr,All,2071.1522,0.9661
+"Beta(1,1)",sas,ID_NDD,1511.5154,0.9749
+"Beta(1,1)",sas,All,1652.2971,0.9757
+"Beta(1,1)",mid,ID_NDD,2476.6451,0.9635
+"Beta(1,1)",mid,All,2691.6486,0.9653
+"Beta(1,1)",nfe,ID_NDD,2398.7212,0.9503
+"Beta(1,1)",nfe,All,2609.0317,0.9526
+"Beta(1,1)",afr,ID_NDD,1925.1388,0.9647
+"Beta(1,1)",afr,All,2088.6811,0.9664
+"Conservative Beta(0.1,1)",sas,ID_NDD,1499.9976,0.9747
+"Conservative Beta(0.1,1)",sas,All,1636.7096,0.9756
+"Conservative Beta(0.1,1)",mid,ID_NDD,2022.2895,0.9571
+"Conservative Beta(0.1,1)",mid,All,2155.9976,0.9588
+"Conservative Beta(0.1,1)",nfe,ID_NDD,2398.0444,0.9503
+"Conservative Beta(0.1,1)",nfe,All,2608.2102,0.9526
+"Conservative Beta(0.1,1)",afr,ID_NDD,1894.9757,0.9642
+"Conservative Beta(0.1,1)",afr,All,2058.8362,0.9659

@@ -1,0 +1,14 @@
+disorder,genes,observed_cases
+Phenylketonuria,PAH,2
+Biotinidase deficiency,BTD,2
+Methylmalonic aciduria,MMUT;MUT;MMAA;MMAB;MCEE,3
+Propionic aciduria,PCCA;PCCB,4
+Maple syrup urine disease,BCKDHA;BCKDHB;DBT,2
+Glutaric aciduria type 1,GCDH,3
+VLCAD deficiency,ACADVL,3
+Citrullinemia,ASS1,2
+3-MCC deficiency,MCCC1;MCCC2,1
+Galactosemia,GALT,1
+MCAD deficiency,ACADM,0
+Homocystinuria,CBS,0
+Isovaleric acidemia,IVD,0

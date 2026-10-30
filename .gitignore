@@ -1,0 +1,15 @@
+# Large raw downloads: re-created by scripts/01_fetch_data.py (deposit on Zenodo instead)
+data/variant_summary.txt.gz
+data/gnomad_cache/
+data/gnomad_lof_cache/
+
+# Python / OS clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.DS_Store
+Thumbs.db
+data/b37ToHg38.over.chain
+release_check/

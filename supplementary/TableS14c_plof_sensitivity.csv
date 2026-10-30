@@ -1,0 +1,10 @@
+analysis,sas,mid,nfe,afr,nfe_sas,nfe_mid
+"Primary (HC pLoF, AF <= 1%)",3129.66,2792.506,2784.823,3241.281,0.89,0.997
+AF <= 0.5% in every ancestry,2913.459,2573.897,2401.298,2901.587,0.824,0.933
+AF <= 0.1% in every ancestry,2266.557,1455.911,1958.647,2185.379,0.864,1.345
+Stop-gained and frameshift only (no splice),1986.202,1794.655,1921.082,2204.886,0.967,1.07
+Without ClinVar-classified variants (unclassified pLoF only),2392.849,1961.682,1733.055,2313.272,0.724,0.883
+Without top 10 genes by South Asian pLoF risk,2579.502,2568.462,2599.728,3088.902,1.008,1.012
+Without top 10 genes by European pLoF risk,2921.705,2600.874,2260.736,2998.452,0.774,0.869
+Without top 25 genes by South Asian pLoF risk,2236.819,2282.349,2298.833,2820.822,1.028,1.007
+Without top 25 genes by European pLoF risk,2486.611,2256.177,1966.001,2795.796,0.791,0.871
