@@ -1,4 +1,5 @@
 # Consanguinity and recessive neurological disease
+[![DOI](https://zenodo.org/badge/1440281643.svg)](https://doi.org/10.5281/zenodo.23822689)
 
 Code and data for:
 
