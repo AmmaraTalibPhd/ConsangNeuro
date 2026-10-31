@@ -1,5 +1,4 @@
 # Consanguinity and recessive neurological disease
-[![DOI](https://zenodo.org/badge/1440281643.svg)](https://doi.org/10.5281/zenodo.23822689)
 
 Code and data for:
 
@@ -22,7 +21,6 @@ This uses the deposited data in `data/` (script 05 downloads one small chain fil
 - `results/`: model outputs, plus `key_numbers.json` and `plof_key_numbers.json` with every number quoted in the manuscript
 - `supplementary/`: Tables S1–S15 and Note S1
 - `figures/`: Figures 1–6 and Figures S1–S2
-
 
 ## Files in the paper and the scripts that make them
 
@@ -102,6 +100,6 @@ Code: MIT (see `LICENSE`). Input data remain under the terms of their sources: G
 
 ## Citation
 
-Please cite the article above and the archived release: Talib, A., Aşır, S., and Farman, M. ConsangNeuro. Zenodo. https://doi.org/10.5281/zenodo.23822690
+Please cite the article above and the archived release: Talib, A., Aşır, S., and Farman, M. ConsangNeuro. Zenodo. https://doi.org/10.5281/zenodo.23823358
 
 Code: https://github.com/AmmaraTalibPhd/ConsangNeuro
