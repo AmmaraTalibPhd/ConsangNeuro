@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: software
+title: "ConsangNeuro: code and data for 'Genomic reference under-representation obscures recessive neurological disease burden in consanguineous populations'"
+authors:
+  - family-names: "Talib"
+    given-names: "Ammara"
+    email: "ammara.talib@neu.edu.tr"
+    affiliation: "The Research Center for Science Technology and Engineering, Department of Biomedical Engineering, Near East University, Mersin 10, Türkiye"
+  - family-names: "Aşır"
+    given-names: "Süleyman"
+    affiliation: "The Research Center for Science Technology and Engineering, Department of Biomedical Engineering, Near East University, Mersin 10, Türkiye"
+  - family-names: "Farman"
+    given-names: "Muhammad"
+    affiliation: "Faculty of Art and Sciences, Department of Mathematics, Near East University, Nicosia 99010, Turkey"
+version: "1.0.3"
+date-released: "2026-10-31"
+license: MIT
+repository-code: "https://github.com/AmmaraTalibPhd/ConsangNeuro"
+doi: ""
+keywords:
+  - consanguinity
+  - recessive disease
+  - population genetics
+  - ClinVar
+  - gnomAD
